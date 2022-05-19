@@ -11,6 +11,11 @@ Solution template for bootstrapping modern .NET applications
 - [ ] HSTS / HTTPS redirection / Forward headers
 - [ ] Versioning
 
+## Building Blocks
+- [ ] Entity
+- [ ] ValueObject
+- [ ] Enumeration
+
 ## Application
 - [ ] Project structure
 - [ ] Commands / Queries/ Decorators
@@ -33,6 +38,7 @@ Solution template for bootstrapping modern .NET applications
 ## Services
 - [ ] Worker
 - [ ] Dapr
+- [ ] YARP
 - [ ] gRPC
 - [ ] Message bus (RabbitMQ / Kafka / Azure ServiceBus)
 - [ ] Scheduled jobs
@@ -55,3 +61,8 @@ Solution template for bootstrapping modern .NET applications
 ## Code Style
 - [ ] .editorconfig
 - [ ] Static code analysis
+
+## Links
+- [.NET Microservices: Architecture for Containerized .NET Applications](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/)
+- [Architecting Cloud Native .NET Applications for Azure](https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/)
+- [Dapr for .NET Developers](https://docs.microsoft.com/en-us/dotnet/architecture/dapr-for-net-developers/)
